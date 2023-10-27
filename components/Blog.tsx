@@ -1,3 +1,4 @@
+import { PencilSimple } from "@phosphor-icons/react"
 import Link from "next/link"
 
 export const Blog = ({ blog }: { blog: Blog }) => {
