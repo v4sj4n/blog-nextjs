@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.0.13",
     "@prisma/client": "5.5.2",
     "next": "14.0.0",
     "react": "^18",
